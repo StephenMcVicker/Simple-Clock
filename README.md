@@ -1,12 +1,12 @@
 # Simple-Clock
 A simple clock, made with HTML, CSS, Javascript
 
-![Screenshot](https://pbs.twimg.com/media/EGdkxbYXoAAE4FL?format=jpg)
-![Screenshot](https://i.imgur.com/6Uws6Fm.jpg)
+![Screenshot](https://i.imgur.com/vd7rwEJ.png)
 
 **Quick Note:**
 
 I am uploading this because I am interested in doing front-end development. 
+This is a protfolio piece but you are free to use the code if you wish.
 
 ## Purpose:
 
