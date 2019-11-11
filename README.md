@@ -2,6 +2,7 @@
 A simple clock, made with HTML, CSS, Javascript
 
 ![Screenshot](https://pbs.twimg.com/media/EGdkxbYXoAAE4FL?format=jpg)
+![Screenshot](https://i.imgur.com/6Uws6Fm.jpg)
 
 **Quick Note:**
 
